@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1208,"text":"Upon clicking on \"Organisations\","},{"start":3360,"text":"you are redirected to a page that displays an overview of all your designated LOs. "},{"start":8512,"text":"By changing the view,"},{"start":11424,"text":"you can see different collections of Organisations."},{"start":14720,"text":"In a subsequent video"},{"start":17088,"text":"we'll examine how to change the view to display all LOs in a specific region. "},{"start":25216,"text":"By selecting an organization, you can access additional information, and make any necessary updates on the page. "},{"start":32608,"text":"The page features multiple tabs including \"Licensing Information,\" "},{"start":36224,"text":"\"Centres,\""},{"start":38400,"text":"\"Linked Contacts,\" and \"Documents.\""}]}]};
+    window.globalLoadJsAsset('story_content/5VuJ0AFtFDZ_transcripts.js', JSON.stringify(data));
+})();
